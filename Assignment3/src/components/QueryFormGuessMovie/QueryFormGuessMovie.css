@@ -1,0 +1,13 @@
+.QueryFormGuessMovie{
+    width: 350px;
+    margin: 50px auto;
+    box-shadow: 4px 4px 10px lightgray;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding:10px;
+}
+
+.error{
+    color: red;
+    font-weight: 500;
+}
