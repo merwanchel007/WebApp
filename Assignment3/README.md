@@ -1,3 +1,6 @@
+## Assignment 3 : Movie Quizz App
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 The public folder is generical and was not designed by my hand.
