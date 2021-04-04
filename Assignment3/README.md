@@ -1,4 +1,4 @@
-## Assignment 3 : Movie Quizz App
+## Assignment 3 : Movie Quiz App
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
