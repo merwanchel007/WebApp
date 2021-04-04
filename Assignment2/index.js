@@ -19,7 +19,7 @@ let db = null;
 let collection = null;
 let collection2 = null;
 
-MongoClient.connect(`mongodb://localhost:27017/drawingsdb`, function (err, client) {
+MongoClient.connect(`mongodb+srv://webappcourse:benjaminbejnbaum007@cluster0.fjrea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`, function (err, client) {
     db = client.db('drawingsdb');
     collection = db.collection('Mydrawings');
     console.log("Connected successfully");
