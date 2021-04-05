@@ -21,5 +21,11 @@ For this assignment, I have created a MongoDB Cluster in order to deploy it. you
 
 mongodb+srv://webappcourse:benjaminbejnbaum007@cluster0.fjrea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority.
 
+If you want to connect through the shell, you can run:
+
+### `mongo "mongodb+srv://cluster0.fjrea.mongodb.net/myFirstDatabase" --username webappcourse`
+
+password : benjaminbejnbaum007
+
 
 
