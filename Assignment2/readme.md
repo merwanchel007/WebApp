@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Runs this command in order to install all the modules required by the app listed in the package-lock.json file.
+Runs this command in order to install all the modules required by the app listed in the package.json file.
 
 ### `npm start`
 
