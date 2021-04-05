@@ -17,5 +17,9 @@ Runs this command in order to install all the modules required by the app listed
 Runs the app in the development mode.\
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
-For this assignment, I have created a MongoDB Cluster in order to deploy it. you can have access to it through : [this URI](mongodb+srv://webappcourse:benjaminbejnbaum007@cluster0.fjrea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority).
+For this assignment, I have created a MongoDB Cluster in order to deploy it. you can have access to it through TablePlus for instance with this URI :
+
+mongodb+srv://webappcourse:benjaminbejnbaum007@cluster0.fjrea.mongodb.net/myFirstDatabase?retryWrites=true&w=majority.
+
+
 
