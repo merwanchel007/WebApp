@@ -6,6 +6,8 @@ Version used for deployment on [this website](https://polar-tundra-55621.herokua
 
 I have used Heroku and Docker in order to deploy it
 
+You will have the cont folder which contains all the static files for the html page. You'll also find in this folder a folder named canvas which contains some canvas I already saved.
+
 In the project directory, you can run:
 
 ### `npm install`
